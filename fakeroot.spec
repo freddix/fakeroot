@@ -1,11 +1,11 @@
 Summary:	Fake root environment
 Name:		fakeroot
-Version:	1.18.4
+Version:	1.19
 Release:	1
 License:	GPL v3+
 Group:		Development/Tools
 Source0:	ftp://ftp.debian.org/debian/pool/main/f/fakeroot/%{name}_%{version}.orig.tar.bz2
-# Source0-md5:	706171d8d520b1ca1576ac73f2ceb4f3
+# Source0-md5:	3a00a1264cb31a815552050ef0c2468b
 URL:		http://fakeroot.alioth.debian.org/
 BuildRequires:	acl-devel
 BuildRequires:	autoconf >= 2.61
